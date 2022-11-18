@@ -1,4 +1,4 @@
-# Journal of Dairy Science - Changes in genetic trends in US dairy cattle since the implemenation of genomic selection
+# Journal of Dairy Science - Changes in genetic trends in US dairy cattle since the implemenation of genomic selection (Supplementary material)
 Supplementary material for "Changes in genetic trends in US dairy cattle since the implementation of genomic selection".
 
 Journal of Dairy Science publication "Changes in genetic trends in US dairy cattle since the implementation of genomic selection" authored by F. L. Guinan, G. R. Wiggans,
